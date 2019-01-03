@@ -19,6 +19,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1987, FOCS] [Paul Feldman] **[A practical scheme for non-interactive verifiable secret sharing](https://www.cs.umd.edu/~gasarch/TOPICS/secretsharing/feldmanVSS.pdf)**
 
+- [1987, Crypto] [Yvo Desmedt] **[Society and group oriented cryptography: A new concept](https://link.springer.com/content/pdf/10.1007%2F3-540-48184-2_8.pdf)**
+
 - [1988, Siam J. Comput.] [S. Goldwasser, S. Micali, and R. Rivest] **[A digital signature scheme secure against adaptive chosen-message attacks](https://people.csail.mit.edu/rivest/GoldwasserMicaliRivest-ADigitalSignatureSchemeSecureAgainstAdaptiveChosenMessageAttacks.pdf)**
 
 
@@ -29,6 +31,8 @@ Research Papers and Articles on Threshold Cryptography
 - [1991, Crypto] [Yvo Desmedt, Yair Frankel] **[Shared generation of authenticators and signatures](https://link.springer.com/content/pdf/10.1007%2F3-540-46766-1_37.pdf)**
 
 - [1992, Technical Report] [Yvo Desmedt, Yair Frankel] **[Parallel reliable threshold multisignature](https://pdfs.semanticscholar.org/51d0/e2be6d242ea7164595e2b9b0da475dbb3dc8.pdf)**
+
+- [1998, Crypto] [Tal Rabin] **[A Simplified Approach to Threshold and Proactive RSA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.8348&rep=rep1&type=pdf)**
 
 
 ---

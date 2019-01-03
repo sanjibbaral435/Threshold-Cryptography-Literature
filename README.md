@@ -13,6 +13,12 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1979, Commun. ACM] [Adi Shamir] **[How to share a secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)**
 
+- [1985, Crypto] [Victor S. Miller] **[Use of Elliptic Curves in Cryptography](https://link.springer.com/content/pdf/10.1007%2F3-540-39799-X_31.pdf)**
+
+- [1987, Mathematics of Computation] [N. Koblitz] **[Elliptic Curve Cryptosystems](http://pages.cs.wisc.edu/~cs812-1/koblitz87.pdf)**
+
+- [1987, FOCS] [Paul Feldman] **[A practical scheme for non-interactive verifiable secret sharing](https://www.cs.umd.edu/~gasarch/TOPICS/secretsharing/feldmanVSS.pdf)**
+
 - [1988, Siam J. Comput.] [S. Goldwasser, S. Micali, and R. Rivest] **[A digital signature scheme secure against adaptive chosen-message attacks](https://people.csail.mit.edu/rivest/GoldwasserMicaliRivest-ADigitalSignatureSchemeSecureAgainstAdaptiveChosenMessageAttacks.pdf)**
 
 

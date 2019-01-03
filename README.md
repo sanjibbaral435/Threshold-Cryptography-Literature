@@ -13,6 +13,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1979, Commun. ACM] [Adi Shamir] **[How to share a secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf)**
 
+- [1985, IEEE Trans. Inform. Theory] [T. ElGamal] **[A public key cryptosystem and signature scheme based on discrete logarithms](https://people.csail.mit.edu/alinush/6.857-spring-2015/papers/elgamal.pdf)**
+
 - [1985, Crypto] [Victor S. Miller] **[Use of Elliptic Curves in Cryptography](https://link.springer.com/content/pdf/10.1007%2F3-540-39799-X_31.pdf)**
 
 - [1987, Mathematics of Computation] [N. Koblitz] **[Elliptic Curve Cryptosystems](http://pages.cs.wisc.edu/~cs812-1/koblitz87.pdf)**
@@ -22,6 +24,8 @@ Research Papers and Articles on Threshold Cryptography
 - [1987, Crypto] [Yvo Desmedt] **[Society and group oriented cryptography: A new concept](https://link.springer.com/content/pdf/10.1007%2F3-540-48184-2_8.pdf)**
 
 - [1988, Siam J. Comput.] [S. Goldwasser, S. Micali, and R. Rivest] **[A digital signature scheme secure against adaptive chosen-message attacks](https://people.csail.mit.edu/rivest/GoldwasserMicaliRivest-ADigitalSignatureSchemeSecureAgainstAdaptiveChosenMessageAttacks.pdf)**
+
+- [1993, ACM CCS] [M. Bellare and P. Rogaway] **[Random oracles are practical: a paradigm for designing efficient protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf)**
 
 
 
@@ -34,6 +38,7 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1998, Crypto] [Tal Rabin] **[A Simplified Approach to Threshold and Proactive RSA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.8348&rep=rep1&type=pdf)**
 
+- [2000, Eurocrypt] [Victor Shoup] **[Practical Threshold Signatures](https://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf)**
 
 ---
 ### Elgamal Based
@@ -49,6 +54,11 @@ Research Papers and Articles on Threshold Cryptography
 ---
 ### Misc.
 ---
+- [1997, FOCS] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Optimal-resilience proactive public-key cryptosystems](https://pdfs.semanticscholar.org/c4e8/88b4a903f93999416e07e54f55a2f930fc97.pdf)**
+
+- [1997, Crypto] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Proactive RSA](https://pdfs.semanticscholar.org/5f17/c85a2221519fa456880c6a85b271e6bc6d3a.pdf?_ga=2.113170052.1836115853.1546542855-115385970.1546542855)**
+
+
 - **[A JCA-based Implementation Framework for Threshold Cryptography](https://www.acsac.org/2001/papers/42.pdf)**
 
 

@@ -36,6 +36,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1992, Technical Report] [Yvo Desmedt, Yair Frankel] **[Parallel reliable threshold multisignature](https://pdfs.semanticscholar.org/51d0/e2be6d242ea7164595e2b9b0da475dbb3dc8.pdf)**
 
+- [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust and efficient sharing of RSA functions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6975&rep=rep1&type=pdf)**
+
 - [1998, Crypto] [Tal Rabin] **[A Simplified Approach to Threshold and Proactive RSA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.8348&rep=rep1&type=pdf)**
 
 - [2000, Eurocrypt] [Victor Shoup] **[Practical Threshold Signatures](https://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf)**
@@ -50,13 +52,19 @@ Research Papers and Articles on Threshold Cryptography
 ---
 ### (EC)DSA Based
 ---
+- [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust threshold DSS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.1659&rep=rep1&type=pdf)**
 
 ---
 ### Misc.
 ---
+- [1994, IEEE Proc.-Comput. Digit. Tech] [L. Harn] **[Group-oriented (t, n) threshold digital signature scheme and digital multisignature](https://ieeexplore.ieee.org/abstract/document/326780)**
+
 - [1997, FOCS] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Optimal-resilience proactive public-key cryptosystems](https://pdfs.semanticscholar.org/c4e8/88b4a903f93999416e07e54f55a2f930fc97.pdf)**
 
 - [1997, Crypto] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Proactive RSA](https://pdfs.semanticscholar.org/5f17/c85a2221519fa456880c6a85b271e6bc6d3a.pdf?_ga=2.113170052.1836115853.1546542855-115385970.1546542855)**
+
+
+
 
 
 - **[A JCA-based Implementation Framework for Threshold Cryptography](https://www.acsac.org/2001/papers/42.pdf)**

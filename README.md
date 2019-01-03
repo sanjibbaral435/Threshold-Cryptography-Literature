@@ -21,8 +21,6 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1987, FOCS] [Paul Feldman] **[A practical scheme for non-interactive verifiable secret sharing](https://www.cs.umd.edu/~gasarch/TOPICS/secretsharing/feldmanVSS.pdf)**
 
-- [1987, Crypto] [Yvo Desmedt] **[Society and group oriented cryptography: A new concept](https://link.springer.com/content/pdf/10.1007%2F3-540-48184-2_8.pdf)**
-
 - [1988, Siam J. Comput.] [S. Goldwasser, S. Micali, and R. Rivest] **[A digital signature scheme secure against adaptive chosen-message attacks](https://people.csail.mit.edu/rivest/GoldwasserMicaliRivest-ADigitalSignatureSchemeSecureAgainstAdaptiveChosenMessageAttacks.pdf)**
 
 - [1993, ACM CCS] [M. Bellare and P. Rogaway] **[Random oracles are practical: a paradigm for designing efficient protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf)**
@@ -37,6 +35,8 @@ Research Papers and Articles on Threshold Cryptography
 - [1992, Technical Report] [Yvo Desmedt, Yair Frankel] **[Parallel reliable threshold multisignature](https://pdfs.semanticscholar.org/51d0/e2be6d242ea7164595e2b9b0da475dbb3dc8.pdf)**
 
 - [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust and efficient sharing of RSA functions](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6975&rep=rep1&type=pdf)**
+
+- [1997, Crypto] [D. Boneh and M. Franklin] **[Efficient generation of shared RSA keys](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.22.859&rep=rep1&type=pdf)**
 
 - [1998, Crypto] [Tal Rabin] **[A Simplified Approach to Threshold and Proactive RSA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.8348&rep=rep1&type=pdf)**
 
@@ -54,18 +54,22 @@ Research Papers and Articles on Threshold Cryptography
 ---
 - [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust threshold DSS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.1659&rep=rep1&type=pdf)**
 
+- [1997, ACM CCS] [A. Herzberg, M. Jakobsson, S. Jarecki, H. Krawczyk, and M. Yung] **[Proactive public key and signature systems](http://markus-jakobsson.com/papers/jakobsson-ccs97.pdf)**
+
 ---
 ### Misc.
 ---
+- [1987, Crypto] [Yvo Desmedt] **[Society and group oriented cryptography: A new concept](https://link.springer.com/content/pdf/10.1007%2F3-540-48184-2_8.pdf)**
+
+- [1994, STOC] [Alfredo De Santis, Y. Desmedt, Y. Frankel, and M. Yung.] **[How to share a function securely](https://dl.acm.org/citation.cfm?id=195405)**
+
 - [1994, IEEE Proc.-Comput. Digit. Tech] [L. Harn] **[Group-oriented (t, n) threshold digital signature scheme and digital multisignature](https://ieeexplore.ieee.org/abstract/document/326780)**
 
 - [1997, FOCS] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Optimal-resilience proactive public-key cryptosystems](https://pdfs.semanticscholar.org/c4e8/88b4a903f93999416e07e54f55a2f930fc97.pdf)**
 
 - [1997, Crypto] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Proactive RSA](https://pdfs.semanticscholar.org/5f17/c85a2221519fa456880c6a85b271e6bc6d3a.pdf?_ga=2.113170052.1836115853.1546542855-115385970.1546542855)**
 
-
-
-
+- [1997, CryptoBytes] [R. Canetti, R. Gennaro, A. Herzberg, and D. Naor] **[Proactive Security: Long-term Protextion Against Break-ins](https://pdfs.semanticscholar.org/a7e8/7f9171cf7dc56c5db27a396ec5c59b09a29a.pdf)**
 
 - **[A JCA-based Implementation Framework for Threshold Cryptography](https://www.acsac.org/2001/papers/42.pdf)**
 

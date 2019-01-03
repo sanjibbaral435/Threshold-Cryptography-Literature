@@ -10,7 +10,7 @@ Research Papers and Articles on Threshold Cryptography
 
 
 ### Elgamal Based
-- [1989 Crypto] **[Threshold cryptosystems](https://link.springer.com/content/pdf/10.1007%2F0-387-34805-0_28.pdf)**
+- [1989 Crypto] [Yvo Desmedt, Yair Frankel] **[Threshold cryptosystems](https://link.springer.com/content/pdf/10.1007%2F0-387-34805-0_28.pdf)**
 
 
 ### (EC)DSA Based

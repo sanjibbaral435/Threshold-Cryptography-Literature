@@ -25,6 +25,9 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1993, ACM CCS] [M. Bellare and P. Rogaway] **[Random oracles are practical: a paradigm for designing efficient protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf)**
 
+- [2000, Eurocrypt] [F. Boudot] **[Efficient proofs that a committed number lies in an interval](https://www.iacr.org/archive/eurocrypt2000/1807/18070437-new.pdf)**
+
+- [2001, FOCS] [Ran Canetti] **[Universally composable security: A new paradigm for cryptographic protocols](https://eprint.iacr.org/2000/067.pdf)**
 
 
 ---
@@ -42,6 +45,13 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2000, Eurocrypt] [Victor Shoup] **[Practical Threshold Signatures](https://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf)**
 
+- [2001, PKC] [Y. Frankel, Philip D. MacKenzie, and M. Yung] **[Adaptive security for the additive-sharing based proactive RSA](https://dl.acm.org/citation.cfm?id=648118.746741)**
+
+- [2005, TCC] [Stanislaw Jarecki and Nitesh Saxena] **[Further simplifications in proactive RSA signature schemes](https://www.ics.uci.edu/~stasio/Papers/js05.pdf)**
+
+- [2006, Eurocrypt] [Jesús F. Almansa, I. Damgård, J.B. Nielsen] **[Simplified Threshold RSA with Adaptive and Proactive Security](https://link.springer.com/content/pdf/10.1007%2F11761679_35.pdf)**
+
+
 ---
 ### Elgamal Based
 ---
@@ -55,6 +65,8 @@ Research Papers and Articles on Threshold Cryptography
 - [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust threshold DSS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.1659&rep=rep1&type=pdf)**
 
 - [1997, ACM CCS] [A. Herzberg, M. Jakobsson, S. Jarecki, H. Krawczyk, and M. Yung] **[Proactive public key and signature systems](http://markus-jakobsson.com/papers/jakobsson-ccs97.pdf)**
+
+- [1999, Crypto] [R. Canetti, R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Adaptive security for threshold cryptosystems](https://link.springer.com/content/pdf/10.1007%2F3-540-48405-1_7.pdf)**
 
 ---
 ### Misc.

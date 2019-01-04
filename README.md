@@ -62,7 +62,7 @@ Research Papers and Articles on Threshold Cryptography
 ---
 ### (EC)DSA Based
 ---
-- [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust threshold DSS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.1659&rep=rep1&type=pdf)**
+- [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust threshold DSS Signatures](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.1659&rep=rep1&type=pdf)**
 
 - [1997, ACM CCS] [A. Herzberg, M. Jakobsson, S. Jarecki, H. Krawczyk, and M. Yung] **[Proactive public key and signature systems](http://markus-jakobsson.com/papers/jakobsson-ccs97.pdf)**
 
@@ -73,15 +73,29 @@ Research Papers and Articles on Threshold Cryptography
 ---
 - [1987, Crypto] [Yvo Desmedt] **[Society and group oriented cryptography: A new concept](https://link.springer.com/content/pdf/10.1007%2F3-540-48184-2_8.pdf)**
 
+- [1991, Eurocrypt] [T. P. Pedersen] **[Distributed Provers with Applications to Undeniable Signature](https://link.springer.com/content/pdf/10.1007/3-540-46416-6_20.pdf)**
+
+- [1991, Crypto] [T. P. Pedersen] **[Non-interactive and Information-Theoretic Secure Verifiable Secret Sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)**
+
+- [1991, ACM SPDC] [R. Ostrovsky and M. Yung] **[How to withstand mobile virus attacks](http://web.cs.ucla.edu/~rafail/PUBLIC/05.pdf)**
+
 - [1994, STOC] [Alfredo De Santis, Y. Desmedt, Y. Frankel, and M. Yung.] **[How to share a function securely](https://dl.acm.org/citation.cfm?id=195405)**
 
 - [1994, IEEE Proc.-Comput. Digit. Tech] [L. Harn] **[Group-oriented (t, n) threshold digital signature scheme and digital multisignature](https://ieeexplore.ieee.org/abstract/document/326780)**
+
+- [1994, Crypto] [R. Canetti and A. Herzberg] **[Maintaining Security in the Presence of Transient Faults](https://link.springer.com/content/pdf/10.1007%2F3-540-48658-5_38.pdf)**
+
+- [1995, Crypto] [A. Herzberg, S. Jarecki, H. Krawczyk, M. Yung] **[Proactive Secret Sharing Or: How to Cope With Perpetual Leakage](https://link.springer.com/content/pdf/10.1007%2F3-540-44750-4_27.pdf)**
 
 - [1997, FOCS] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Optimal-resilience proactive public-key cryptosystems](https://pdfs.semanticscholar.org/c4e8/88b4a903f93999416e07e54f55a2f930fc97.pdf)**
 
 - [1997, Crypto] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Proactive RSA](https://pdfs.semanticscholar.org/5f17/c85a2221519fa456880c6a85b271e6bc6d3a.pdf?_ga=2.113170052.1836115853.1546542855-115385970.1546542855)**
 
 - [1997, CryptoBytes] [R. Canetti, R. Gennaro, A. Herzberg, and D. Naor] **[Proactive Security: Long-term Protextion Against Break-ins](https://pdfs.semanticscholar.org/a7e8/7f9171cf7dc56c5db27a396ec5c59b09a29a.pdf)**
+
+- [1999, Eurocrypt] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.2737&rep=rep1&type=pdf)**
+
+- [1999, ESA] [Y. Frankel, P. MacKenzie, and M. Yung] **[Adaptively-secure distributed threshold public key systems](https://dl.acm.org/citation.cfm?id=740147)**
 
 - **[A JCA-based Implementation Framework for Threshold Cryptography](https://www.acsac.org/2001/papers/42.pdf)**
 

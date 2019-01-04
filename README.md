@@ -25,6 +25,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1993, ACM CCS] [M. Bellare and P. Rogaway] **[Random oracles are practical: a paradigm for designing efficient protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf)**
 
+- [1996, Eurocrypt] [D. Pointcheval and J. Stern] **[Security proofs for signature schemes](https://www.di.ens.fr/david.pointcheval/Documents/Papers/1996_eurocrypt.pdf)**
+
 - [2000, Eurocrypt] [F. Boudot] **[Efficient proofs that a committed number lies in an interval](https://www.iacr.org/archive/eurocrypt2000/1807/18070437-new.pdf)**
 
 - [2001, FOCS] [Ran Canetti] **[Universally composable security: A new paradigm for cryptographic protocols](https://eprint.iacr.org/2000/067.pdf)**
@@ -62,6 +64,8 @@ Research Papers and Articles on Threshold Cryptography
 ---
 ### (EC)DSA Based
 ---
+- [1995, Crypto] [S. Langford] **[Threshold dss signatures without a trusted party](https://link.springer.com/content/pdf/10.1007%2F3-540-44750-4_32.pdf)**
+
 - [1996, Crypto] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Robust threshold DSS Signatures](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.1659&rep=rep1&type=pdf)**
 
 - [1997, ACM CCS] [A. Herzberg, M. Jakobsson, S. Jarecki, H. Krawczyk, and M. Yung] **[Proactive public key and signature systems](http://markus-jakobsson.com/papers/jakobsson-ccs97.pdf)**
@@ -100,6 +104,9 @@ Research Papers and Articles on Threshold Cryptography
 - [1999, Eurocrypt] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.2737&rep=rep1&type=pdf)**
 
 - [1999, ESA] [Y. Frankel, P. MacKenzie, and M. Yung] **[Adaptively-secure distributed threshold public key systems](https://dl.acm.org/citation.cfm?id=740147)**
+
+- [2000, Eurocrypt] [S. Jarecki and A. Lysyanskaya] **[Adaptively secure threshold cryptography: introducing concurrency, removing erasures](https://www.iacr.org/archive/eurocrypt2000/1807/18070223-new.pdf)**
+
 
 - **[A JCA-based Implementation Framework for Threshold Cryptography](https://www.acsac.org/2001/papers/42.pdf)**
 

@@ -85,6 +85,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1991, ACM SPDC] [R. Ostrovsky and M. Yung] **[How to withstand mobile virus attacks](http://web.cs.ucla.edu/~rafail/PUBLIC/05.pdf)**
 
+- [1991, Asiacrypt] [C. Laih and L. Ham] **[Generalized threshold cyrptosystems](https://dl.acm.org/citation.cfm?id=713787)**
+
 - [1994, STOC] [Alfredo De Santis, Y. Desmedt, Y. Frankel, and M. Yung.] **[How to share a function securely](https://dl.acm.org/citation.cfm?id=195405)**
 
 - [1994, IEEE Proc.-Comput. Digit. Tech] [L. Harn] **[Group-oriented (t, n) threshold digital signature scheme and digital multisignature](https://ieeexplore.ieee.org/abstract/document/326780)**

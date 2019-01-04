@@ -56,7 +56,7 @@ Research Papers and Articles on Threshold Cryptography
 ### Elgamal Based
 ---
 - [1989, Crypto] [Yvo Desmedt, Yair Frankel] **[Threshold cryptosystems](https://link.springer.com/content/pdf/10.1007%2F0-387-34805-0_28.pdf)**
----
+
 
 
 ---
@@ -77,6 +77,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1991, Crypto] [T. P. Pedersen] **[Non-interactive and Information-Theoretic Secure Verifiable Secret Sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)**
 
+- [1991, Eurocrypt] [T. P. Pedersen] **[A threshold cryptosystem without a trusted party](https://link.springer.com/content/pdf/10.1007%2F3-540-46416-6_47.pdf)**
+
 - [1991, ACM SPDC] [R. Ostrovsky and M. Yung] **[How to withstand mobile virus attacks](http://web.cs.ucla.edu/~rafail/PUBLIC/05.pdf)**
 
 - [1994, STOC] [Alfredo De Santis, Y. Desmedt, Y. Frankel, and M. Yung.] **[How to share a function securely](https://dl.acm.org/citation.cfm?id=195405)**
@@ -92,6 +94,8 @@ Research Papers and Articles on Threshold Cryptography
 - [1997, Crypto] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Proactive RSA](https://pdfs.semanticscholar.org/5f17/c85a2221519fa456880c6a85b271e6bc6d3a.pdf?_ga=2.113170052.1836115853.1546542855-115385970.1546542855)**
 
 - [1997, CryptoBytes] [R. Canetti, R. Gennaro, A. Herzberg, and D. Naor] **[Proactive Security: Long-term Protextion Against Break-ins](https://pdfs.semanticscholar.org/a7e8/7f9171cf7dc56c5db27a396ec5c59b09a29a.pdf)**
+
+- [1998, Eurocrypt] [V. Shoup and R. Gennaro] **[Securing threshold cryptosystems against chosen ciphertext attack](https://www.shoup.net/papers/thresh1.pdf)**
 
 - [1999, Eurocrypt] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.2737&rep=rep1&type=pdf)**
 
@@ -109,7 +113,7 @@ Research Papers and Articles on Threshold Cryptography
 
 
 
-
+---
 
 
 

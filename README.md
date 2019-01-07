@@ -43,11 +43,17 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1997, Crypto] [D. Boneh and M. Franklin] **[Efficient generation of shared RSA keys](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.22.859&rep=rep1&type=pdf)**
 
+- [1998, STOC] [Y. Frankel, P. MacKenzie, and M. Yung] **[Robust Efficient Distributed RSA Key Generation](https://www.researchgate.net/profile/Moti_Yung/publication/2449287_Robust_Efficient_Distributed_RSA-Key_Generation/links/00b7d53b88cc27da00000000/Robust-Efficient-Distributed-RSA-Key-Generation.pdf)**
+
 - [1998, Crypto] [Tal Rabin] **[A Simplified Approach to Threshold and Proactive RSA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.8348&rep=rep1&type=pdf)**
 
 - [2000, Eurocrypt] [Victor Shoup] **[Practical Threshold Signatures](https://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf)**
 
+- [2001, Asiacrypt] [P. A. Fouque and J. Stern] **[Fully Distributed Threshold RSA under Standard Assumptions](https://www.iacr.org/archive/asiacrypt2001/22480312.pdf)**
+
 - [2001, PKC] [Y. Frankel, Philip D. MacKenzie, and M. Yung] **[Adaptive security for the additive-sharing based proactive RSA](https://dl.acm.org/citation.cfm?id=648118.746741)**
+
+- [2001, Eurocrypt] [I. Damgard and M. Koprowski] **[Practical Threshold RSA Signatures Without a Trusted Dealer](https://www.iacr.org/archive/eurocrypt2001/20450151.pdf)**
 
 - [2005, TCC] [Stanislaw Jarecki and Nitesh Saxena] **[Further simplifications in proactive RSA signature schemes](https://www.ics.uci.edu/~stasio/Papers/js05.pdf)**
 
@@ -111,7 +117,11 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2000, Eurocrypt] [S. Jarecki and A. Lysyanskaya] **[Adaptively secure threshold cryptography: introducing concurrency, removing erasures](https://www.iacr.org/archive/eurocrypt2000/1807/18070223-new.pdf)**
 
+- [2000, Financial Crypto] [P. A. Fouque, G. Poupard, and J. Stern] **[Sharing Decryption in the Context of Voting or Lotteries](https://www.di.ens.fr/~stern/data/St85.pdf)**
+
 - [2001, Asiacrypt] [P.-A. Fouque, D. Pointcheval] **[Threshold Cryptosystems Secure against Chosen-Ciphertext Attacks](https://www.iacr.org/archive/asiacrypt2001/22480353.pdf)**
+
+- [2001, PKC] [P. A. Fouque and J. Stern] **[One Round Threshold Discrete-Log Key Generation without Private Channels](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.1386&rep=rep1&type=pdf)**
 
 - [2003, PKC] [P. MacKenzie] **[An Efficient Two-Party Public Key Cryptosystem Secure against Adaptive Chosen Ciphertext Attack](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.5412&rep=rep1&type=pdf)**
 

@@ -105,11 +105,19 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1999, Eurocrypt] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.2737&rep=rep1&type=pdf)**
 
+- [1999, Eurocrypt] [R. Canetti, S. Goldwasser] **[An Efficient Threshold Public Key Cryptosystem Secure Against Adaptive Chosen Ciphertext Attack](http://groups.csail.mit.edu/cis/pubs/shafi/1999-lncs.pdf)**
+
 - [1999, ESA] [Y. Frankel, P. MacKenzie, and M. Yung] **[Adaptively-secure distributed threshold public key systems](https://dl.acm.org/citation.cfm?id=740147)**
 
 - [2000, Eurocrypt] [S. Jarecki and A. Lysyanskaya] **[Adaptively secure threshold cryptography: introducing concurrency, removing erasures](https://www.iacr.org/archive/eurocrypt2000/1807/18070223-new.pdf)**
 
+- [2001, Asiacrypt] [P.-A. Fouque, D. Pointcheval] **[Threshold Cryptosystems Secure against Chosen-Ciphertext Attacks](https://www.iacr.org/archive/asiacrypt2001/22480353.pdf)**
+
+- [2003, PKC] [P. MacKenzie] **[An Efficient Two-Party Public Key Cryptosystem Secure against Adaptive Chosen Ciphertext Attack](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.5412&rep=rep1&type=pdf)**
+
 - [2006, CT-RSA] [D. Boneh, X. Boyen, S. Halevi] **[Chosen Ciphertext Secure Public Key Threshold Encryption Without Random Oracles](http://crypto.stanford.edu/~dabo/papers/ibethresh.pdf)**
+
+- [2012, ICALP] [Benoit Libert, Moti Yung] **[Adaptively Secure Non-Interactive Threshold Cryptosystems](http://perso.ens-lyon.fr/benoit.libert/threshold-cca-icalp-full-version.pdf)**
 
 - [2012, TCC] [Benoit Libert, Moti Yung] **[Non-interactive CCA-Secure Threshold Cryptosystems with Adaptive Security: New Framework and Constructions](http://perso.ens-lyon.fr/benoit.libert/threshold-framework-full-version.pdf)**
 

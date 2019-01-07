@@ -109,6 +109,10 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2000, Eurocrypt] [S. Jarecki and A. Lysyanskaya] **[Adaptively secure threshold cryptography: introducing concurrency, removing erasures](https://www.iacr.org/archive/eurocrypt2000/1807/18070223-new.pdf)**
 
+- [2006, CT-RSA] [D. Boneh, X. Boyen, S. Halevi] **[Chosen Ciphertext Secure Public Key Threshold Encryption Without Random Oracles](http://crypto.stanford.edu/~dabo/papers/ibethresh.pdf)**
+
+- [2012, TCC] [Benoit Libert, Moti Yung] **[Non-interactive CCA-Secure Threshold Cryptosystems with Adaptive Security: New Framework and Constructions](http://perso.ens-lyon.fr/benoit.libert/threshold-framework-full-version.pdf)**
+
 
 - **[A JCA-based Implementation Framework for Threshold Cryptography](https://www.acsac.org/2001/papers/42.pdf)**
 

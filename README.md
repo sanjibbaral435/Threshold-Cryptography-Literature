@@ -25,6 +25,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1993, ACM CCS] [M. Bellare and P. Rogaway] **[Random oracles are practical: a paradigm for designing efficient protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf)**
 
+- [1996, Eurocrypt] [P. Paillier] **[Public key crypto-systems based on composite residue classes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.4035&rep=rep1&type=pdf)**
+
 - [1996, Eurocrypt] [D. Pointcheval and J. Stern] **[Security proofs for signature schemes](https://www.di.ens.fr/david.pointcheval/Documents/Papers/1996_eurocrypt.pdf)**
 
 - [2000, Eurocrypt] [F. Boudot] **[Efficient proofs that a committed number lies in an interval](https://www.iacr.org/archive/eurocrypt2000/1807/18070437-new.pdf)**
@@ -46,6 +48,10 @@ Research Papers and Articles on Threshold Cryptography
 - [1998, STOC] [Y. Frankel, P. MacKenzie, and M. Yung] **[Robust Efficient Distributed RSA Key Generation](https://www.researchgate.net/profile/Moti_Yung/publication/2449287_Robust_Efficient_Distributed_RSA-Key_Generation/links/00b7d53b88cc27da00000000/Robust-Efficient-Distributed-RSA-Key-Generation.pdf)**
 
 - [1998, Crypto] [Tal Rabin] **[A Simplified Approach to Threshold and Proactive RSA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.8348&rep=rep1&type=pdf)**
+
+- [1998, Asiacrypt] [G. Poupard and J. Stern] **[Generation of Shared RSA Keys by Two Parties](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.2255&rep=rep1&type=pdf)**
+
+- [1999, Crypto] [N. Gilboa] **[Two Party RSA Key Generation](http://www.bgu.ac.il/~gilboan/publications/rsa280599.pdf)**
 
 - [2000, Eurocrypt] [Victor Shoup] **[Practical Threshold Signatures](https://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf)**
 

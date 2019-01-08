@@ -143,6 +143,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2003, PKC] [P. MacKenzie] **[An Efficient Two-Party Public Key Cryptosystem Secure against Adaptive Chosen Ciphertext Attack](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.5412&rep=rep1&type=pdf)**
 
+- [2003, PKC] [Alexandra Boldyreva] **[Threshold Signatures, Multisignatures and Blind Signatures Based on the Gap-Diffie-Hellman-Group Signature Scheme](https://www.iacr.org/archive/pkc2003/25670031/25670031.pdf)**
+
 - [2006, CT-RSA] [D. Boneh, X. Boyen, S. Halevi] **[Chosen Ciphertext Secure Public Key Threshold Encryption Without Random Oracles](http://crypto.stanford.edu/~dabo/papers/ibethresh.pdf)**
 
 - [2012, ICALP] [Benoit Libert, Moti Yung] **[Adaptively Secure Non-Interactive Threshold Cryptosystems](http://perso.ens-lyon.fr/benoit.libert/threshold-cca-icalp-full-version.pdf)**

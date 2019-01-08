@@ -29,6 +29,10 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1996, Eurocrypt] [D. Pointcheval and J. Stern] **[Security proofs for signature schemes](https://www.di.ens.fr/david.pointcheval/Documents/Papers/1996_eurocrypt.pdf)**
 
+- [1999, ACM CCS] [Ronald Cramer and Victor Shoup] **[Signature schemes based on the strong RSA assumption](ftp://ftp.inf.ethz.ch/pub/crypto/publications/CraSho99.pdf)**
+
+- [1999, Eurocrypt] [Pascal Paillier] **[Public-key cryptosystems based on composite residuosity classes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.4035&rep=rep1&type=pdf)**
+
 - [2000, Eurocrypt] [F. Boudot] **[Efficient proofs that a committed number lies in an interval](https://www.iacr.org/archive/eurocrypt2000/1807/18070437-new.pdf)**
 
 - [2001, FOCS] [Ran Canetti] **[Universally composable security: A new paradigm for cryptographic protocols](https://eprint.iacr.org/2000/067.pdf)**
@@ -128,6 +132,10 @@ Research Papers and Articles on Threshold Cryptography
 - [2001, Asiacrypt] [P.-A. Fouque, D. Pointcheval] **[Threshold Cryptosystems Secure against Chosen-Ciphertext Attacks](https://www.iacr.org/archive/asiacrypt2001/22480353.pdf)**
 
 - [2001, PKC] [P. A. Fouque and J. Stern] **[One Round Threshold Discrete-Log Key Generation without Private Channels](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.1386&rep=rep1&type=pdf)**
+
+- [2001, Asiacrypt] [Anna Lysyanskaya and Chris Peikert] **[Adaptive Security in the Threshold Setting: From Cryptosystems to Signature Schemes](https://www.iacr.org/archive/asiacrypt2001/22480333.pdf)**
+
+- [2002, Asiacrypt] [Jonathan KatzMoti Yung] **[Threshold Cryptosystems Based on Factoring](https://eprint.iacr.org/2001/093.pdf)**
 
 - [2003, PKC] [P. MacKenzie] **[An Efficient Two-Party Public Key Cryptosystem Secure against Adaptive Chosen Ciphertext Attack](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.5412&rep=rep1&type=pdf)**
 

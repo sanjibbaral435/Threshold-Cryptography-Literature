@@ -29,7 +29,7 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1996, Eurocrypt] [D. Pointcheval and J. Stern] **[Security proofs for signature schemes](https://www.di.ens.fr/david.pointcheval/Documents/Papers/1996_eurocrypt.pdf)**
 
-- [1999, ACM CCS] [Ronald Cramer and Victor Shoup] **[Signature schemes based on the strong RSA assumption](ftp://ftp.inf.ethz.ch/pub/crypto/publications/CraSho99.pdf)**
+- [1999, ACM CCS] [Ronald Cramer and Victor Shoup] **[Signature schemes based on the strong RSA assumption](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.2406&rep=rep1&type=pdf)**
 
 - [1999, Eurocrypt] [Pascal Paillier] **[Public-key cryptosystems based on composite residuosity classes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.4035&rep=rep1&type=pdf)**
 
@@ -93,6 +93,8 @@ Research Papers and Articles on Threshold Cryptography
 ---
 - [1987, Crypto] [Yvo Desmedt] **[Society and group oriented cryptography: A new concept](https://link.springer.com/content/pdf/10.1007%2F3-540-48184-2_8.pdf)**
 
+- [1989, Eurocrypto] [Y. Frankel] **[A practical protocol for large group oriented networks](https://link.springer.com/content/pdf/10.1007%2F3-540-46885-4_8.pdf)**
+
 - [1991, Eurocrypt] [T. P. Pedersen] **[Distributed Provers with Applications to Undeniable Signature](https://link.springer.com/content/pdf/10.1007/3-540-46416-6_20.pdf)**
 
 - [1991, Crypto] [T. P. Pedersen] **[Non-interactive and Information-Theoretic Secure Verifiable Secret Sharing](https://www.cs.cornell.edu/courses/cs754/2001fa/129.PDF)**
@@ -110,6 +112,8 @@ Research Papers and Articles on Threshold Cryptography
 - [1994, Crypto] [R. Canetti and A. Herzberg] **[Maintaining Security in the Presence of Transient Faults](https://link.springer.com/content/pdf/10.1007%2F3-540-48658-5_38.pdf)**
 
 - [1995, Crypto] [A. Herzberg, S. Jarecki, H. Krawczyk, M. Yung] **[Proactive Secret Sharing Or: How to Cope With Perpetual Leakage](https://link.springer.com/content/pdf/10.1007%2F3-540-44750-4_27.pdf)**
+
+- [1997, ISW] [Yvo Desmedt] **[Some recent research aspects of threshold cryptography](https://pdfs.semanticscholar.org/7e80/a0360ac0a280387522f17e90f94a901f38e0.pdf)**
 
 - [1997, FOCS] [Y. Frankel, P. Gemmall, P. MacKenzie, and M. Yung] **[Optimal-resilience proactive public-key cryptosystems](https://pdfs.semanticscholar.org/c4e8/88b4a903f93999416e07e54f55a2f930fc97.pdf)**
 

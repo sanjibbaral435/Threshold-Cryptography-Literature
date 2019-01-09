@@ -90,6 +90,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1999, Crypto] [R. Canetti, R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Adaptive security for threshold cryptosystems](https://link.springer.com/content/pdf/10.1007%2F3-540-48405-1_7.pdf)**
 
+- [2001, Crypto] [P. MacKenzie and M. K. Reiter] **[Two-Party Generation of DSA Signatures](https://www.iacr.org/archive/crypto2001/21390136.pdf)**
+
 - [2016, ACNS] [R. Gennaro, S. Goldfeder, and A. Narayanan] **[Threshold-Optimal DSA/ECDSA Signatures and an Application to Bitcoin Wallet Security](https://eprint.iacr.org/2016/013.pdf)**
 
 - [2017, LATINCRYPT 2017] [D. Boneh, R. Gennaro, and S. Goldfeder] **[Using level-1 homomorphic encryption to improve threshold dsa signatures for bitcoin wallet security](https://pdfs.semanticscholar.org/a57a/e12ec05a71b22ce6504dce29c37c3f86d6fc.pdf)**
@@ -151,6 +153,8 @@ Research Papers and Articles on Threshold Cryptography
 - [2001, PKC] [P. A. Fouque and J. Stern] **[One Round Threshold Discrete-Log Key Generation without Private Channels](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.12.1386&rep=rep1&type=pdf)**
 
 - [2001, Asiacrypt] [Anna Lysyanskaya and Chris Peikert] **[Adaptive Security in the Threshold Setting: From Cryptosystems to Signature Schemes](https://www.iacr.org/archive/asiacrypt2001/22480333.pdf)**
+
+- [2001, ACISP] [D. R. Stinson and R. Strobl] **[Provably secure distributed schnorr signatures and a (t, n) threshold scheme for implicit certificates](https://link.springer.com/chapter/10.1007/3-540-47719-5_33)**
 
 - [2002, Asiacrypt] [Jonathan KatzMoti Yung] **[Threshold Cryptosystems Based on Factoring](https://eprint.iacr.org/2001/093.pdf)**
 

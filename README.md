@@ -71,12 +71,16 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2006, Eurocrypt] [Jesús F. Almansa, I. Damgård, J.B. Nielsen] **[Simplified Threshold RSA with Adaptive and Proactive Security](https://link.springer.com/content/pdf/10.1007%2F11761679_35.pdf)**
 
+- [2010, TCC] [I. Damgard and G. L. Mikkelsen] **[Efficient, robust and constant-round distributed RSA key generation](https://www.iacr.org/archive/tcc2010/59780180/59780180.pdf)**
+
+- [2012, CT-RSA] [Carmit HazayGert Læssøe MikkelsenTal RabinTomas Toft] **[Efficient RSA Key Generation and Threshold Paillier in the Two-Party Setting](https://eprint.iacr.org/2011/494.pdf)**
 
 ---
 ### Elgamal Based
 ---
 - [1989, Crypto] [Yvo Desmedt, Yair Frankel] **[Threshold cryptosystems](https://link.springer.com/content/pdf/10.1007%2F0-387-34805-0_28.pdf)**
 
+- [1996, IEICE Trans] [C. Park and K. Kurosawa] **[New ElGamal type threshold digital signature scheme](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.795&rep=rep1&type=pdf)**
 
 
 ---
@@ -163,6 +167,8 @@ Research Papers and Articles on Threshold Cryptography
 - [2003, PKC] [Alexandra Boldyreva] **[Threshold Signatures, Multisignatures and Blind Signatures Based on the Gap-Diffie-Hellman-Group Signature Scheme](https://www.iacr.org/archive/pkc2003/25670031/25670031.pdf)**
 
 - [2006, CT-RSA] [D. Boneh, X. Boyen, S. Halevi] **[Chosen Ciphertext Secure Public Key Threshold Encryption Without Random Oracles](http://crypto.stanford.edu/~dabo/papers/ibethresh.pdf)**
+
+- [2010, WISA] [Takashi Nishide and Kouichi Sakurai] **[Distributed paillier cryptosystem without trusted dealer](https://link.springer.com/chapter/10.1007/978-3-642-17955-6_4)**
 
 - [2012, ICALP] [Benoit Libert, Moti Yung] **[Adaptively Secure Non-Interactive Threshold Cryptosystems](http://perso.ens-lyon.fr/benoit.libert/threshold-cca-icalp-full-version.pdf)**
 

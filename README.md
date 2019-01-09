@@ -21,6 +21,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1987, FOCS] [Paul Feldman] **[A practical scheme for non-interactive verifiable secret sharing](https://www.cs.umd.edu/~gasarch/TOPICS/secretsharing/feldmanVSS.pdf)**
 
+- [1987, STOC] [O. Goldreich, S. Micali, and A. Wigderson] **[How to play any mental game](https://dl.acm.org/citation.cfm?id=28420)**
+
 - [1988, Siam J. Comput.] [S. Goldwasser, S. Micali, and R. Rivest] **[A digital signature scheme secure against adaptive chosen-message attacks](https://people.csail.mit.edu/rivest/GoldwasserMicaliRivest-ADigitalSignatureSchemeSecureAgainstAdaptiveChosenMessageAttacks.pdf)**
 
 - [1993, ACM CCS] [M. Bellare and P. Rogaway] **[Random oracles are practical: a paradigm for designing efficient protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf)**
@@ -87,6 +89,17 @@ Research Papers and Articles on Threshold Cryptography
 - [1997, ACM CCS] [A. Herzberg, M. Jakobsson, S. Jarecki, H. Krawczyk, and M. Yung] **[Proactive public key and signature systems](http://markus-jakobsson.com/papers/jakobsson-ccs97.pdf)**
 
 - [1999, Crypto] [R. Canetti, R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Adaptive security for threshold cryptosystems](https://link.springer.com/content/pdf/10.1007%2F3-540-48405-1_7.pdf)**
+
+- [2016, ACNS] [R. Gennaro, S. Goldfeder, and A. Narayanan] **[Threshold-Optimal DSA/ECDSA Signatures and an Application to Bitcoin Wallet Security](https://eprint.iacr.org/2016/013.pdf)**
+
+- [2017, LATINCRYPT 2017] [D. Boneh, R. Gennaro, and S. Goldfeder] **[Using level-1 homomorphic encryption to improve threshold dsa signatures for bitcoin wallet security](https://pdfs.semanticscholar.org/a57a/e12ec05a71b22ce6504dce29c37c3f86d6fc.pdf)**
+
+- [2017, Crypto 2017] [Y. Lindell] **[Fast secure two-party ecdsa signing](https://eprint.iacr.org/2017/552.pdf)**
+
+- [2018, IEEE S&P] [Jack Doerner, Yashvanth Kondi, Eysa Lee, Abhi Shelat] **[Secure Two-party Threshold ECDSA from ECDSA Assumptions](https://eprint.iacr.org/2018/499.pdf)**
+
+- [2019, IEEE S&P] [Jack Doerner, Yashvanth Kondi, Eysa Lee, Abhi Shelat] **[Threshold ECDSA from ECDSA Assumptions: The Multiparty Case](https://csdl.computer.org/csdl/proceedings/sp/2019/6660/00/666000a399.pdf)**
+
 
 ---
 ### Misc.

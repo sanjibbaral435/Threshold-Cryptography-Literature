@@ -71,9 +71,11 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2006, Eurocrypt] [Jesús F. Almansa, I. Damgård, J.B. Nielsen] **[Simplified Threshold RSA with Adaptive and Proactive Security](https://link.springer.com/content/pdf/10.1007%2F11761679_35.pdf)**
 
+- [2008, Eurocrypt] [R. Gennaro, S. Halevi, H. Krawczyk and Tal Rabin] **[Threshold RSA for Dynamic and Ad-Hoc Groups](https://eprint.iacr.org/2008/045.pdf)**
+
 - [2010, TCC] [I. Damgard and G. L. Mikkelsen] **[Efficient, robust and constant-round distributed RSA key generation](https://www.iacr.org/archive/tcc2010/59780180/59780180.pdf)**
 
-- [2012, CT-RSA] [Carmit HazayGert Læssøe MikkelsenTal RabinTomas Toft] **[Efficient RSA Key Generation and Threshold Paillier in the Two-Party Setting](https://eprint.iacr.org/2011/494.pdf)**
+- [2012, CT-RSA] [Carmit Hazay, Gert Læssøe Mikkelsen, Tal Rabin, Tomas Toft] **[Efficient RSA Key Generation and Threshold Paillier in the Two-Party Setting](https://eprint.iacr.org/2011/494.pdf)**
 
 ---
 ### Elgamal Based
@@ -105,6 +107,26 @@ Research Papers and Articles on Threshold Cryptography
 - [2018, IEEE S&P] [Jack Doerner, Yashvanth Kondi, Eysa Lee, Abhi Shelat] **[Secure Two-party Threshold ECDSA from ECDSA Assumptions](https://eprint.iacr.org/2018/499.pdf)**
 
 - [2019, IEEE S&P] [Jack Doerner, Yashvanth Kondi, Eysa Lee, Abhi Shelat] **[Threshold ECDSA from ECDSA Assumptions: The Multiparty Case](https://csdl.computer.org/csdl/proceedings/sp/2019/6660/00/666000a399.pdf)**
+
+---
+### Lattice Based
+---
+- [2010, TCC] [Rikke Bendlin, Ivan Damgård] **[Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems](https://eprint.iacr.org/2009/391.pdf)**
+
+- [2013, ACNS] [Rikke Bendlin, Sara Krehbiel, Chris Peikert] **[How to Share a Lattice Trapdoor: Threshold Protocols for Signatures and (H)IBE](https://eprint.iacr.org/2013/419.pdf)**
+
+- [2017, ePrint] [A. Jain, S. Kim, Peter M. R. Rasmussen, A. Sahai] **[Threshold Fully Homomorphic Encryption](https://eprint.iacr.org/2017/257.pdf)**
+
+- [2017, ePrint] [D. Boneh, R. Gennaro, S. Goldfeder, S. Kim] **[A Lattice-Based Universal Thresholdizer for Cryptographic Systems](https://eprint.iacr.org/2017/251.pdf)**
+
+- [2018, Crypto] [D. Boneh, R. Gennaro, S. Goldfeder, A. Jain, S. Kim, Peter M. R. Rasmussen, A. Sahai] **[Threshold Cryptosystems From Threshold Fully Homomorphic Encryption](https://eprint.iacr.org/2017/956.pdf)**
+
+---
+### ID Based
+---
+- [2012, ePrint] [Wei Gao, Guilin Wang, Kefei Chen, Xueli Wang, Guoyan Zhang] **[Efficient identity-based threshold decryption scheme from bilinear pairings](https://eprint.iacr.org/2012/075.pdf)**
+
+- [2014, Int. J. of Internet Protocol Tech.] [Wei Gao, Guilin Wang, Xueli Wang, Kefei Chen] **[Efficient identity-based threshold signature scheme from bilinear pairings in standard model](https://eprint.iacr.org/2012/073.pdf)**
 
 
 ---
@@ -160,15 +182,27 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2001, ACISP] [D. R. Stinson and R. Strobl] **[Provably secure distributed schnorr signatures and a (t, n) threshold scheme for implicit certificates](https://link.springer.com/chapter/10.1007/3-540-47719-5_33)**
 
+- [2001, CT-RSA] [Michel Abdalla, Sara Miner, Chanathip Namprempre] **[Forward-Secure Threshold Signature Schemes](https://eprint.iacr.org/2000/031.pdf)**
+
 - [2002, Asiacrypt] [Jonathan KatzMoti Yung] **[Threshold Cryptosystems Based on Factoring](https://eprint.iacr.org/2001/093.pdf)**
 
 - [2003, PKC] [P. MacKenzie] **[An Efficient Two-Party Public Key Cryptosystem Secure against Adaptive Chosen Ciphertext Attack](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.5412&rep=rep1&type=pdf)**
 
 - [2003, PKC] [Alexandra Boldyreva] **[Threshold Signatures, Multisignatures and Blind Signatures Based on the Gap-Diffie-Hellman-Group Signature Scheme](https://www.iacr.org/archive/pkc2003/25670031/25670031.pdf)**
 
+- [2004, Crypto] [Masayuki AbeSerge Fehr] **[Adaptively Secure Feldman VSS and Applications to Universally-Composable Threshold Cryptography](https://eprint.iacr.org/2004/119.pdf)**
+
+- [2004, PKC] [Joonsang Baek, Yuliang Zheng] **[Identity-Based Threshold Decryption](https://eprint.iacr.org/2003/164.pdf)**
+
 - [2006, CT-RSA] [D. Boneh, X. Boyen, S. Halevi] **[Chosen Ciphertext Secure Public Key Threshold Encryption Without Random Oracles](http://crypto.stanford.edu/~dabo/papers/ibethresh.pdf)**
 
+- [2006, PKC] [Chris Crutchfield, David Molnar, David Turner, David Wagner] **[Generic On-Line/Off-Line Threshold Signatures](https://eprint.iacr.org/2005/418.pdf)**
+
+- [2009, AFRICACRYPT] [Siamak F. Shahandashti, Reihaneh Safavi-Naini] **[Threshold Attribute-Based Signatures and Their Application to Anonymous Credential Systems](https://eprint.iacr.org/2009/126.pdf)**
+
 - [2010, WISA] [Takashi Nishide and Kouichi Sakurai] **[Distributed paillier cryptosystem without trusted dealer](https://link.springer.com/chapter/10.1007/978-3-642-17955-6_4)**
+
+- [2011, ePrint] [Steven Myers, Mona Sergi, abhi shelat] **[Threshold Fully Homomorphic Encryption and Secure Computation](https://eprint.iacr.org/2011/454.pdf)**
 
 - [2012, ICALP] [Benoit Libert, Moti Yung] **[Adaptively Secure Non-Interactive Threshold Cryptosystems](http://perso.ens-lyon.fr/benoit.libert/threshold-cca-icalp-full-version.pdf)**
 

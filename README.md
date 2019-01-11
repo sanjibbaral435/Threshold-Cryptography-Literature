@@ -51,6 +51,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1997, Crypto] [D. Boneh and M. Franklin] **[Efficient generation of shared RSA keys](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.22.859&rep=rep1&type=pdf)**
 
+- [1997, Security Protocols] [T. Okamoto] **[Threshold key-recovery systems for RSA](https://link.springer.com/content/pdf/10.1007%2FBFb0028169.pdf)**
+
 - [1998, STOC] [Y. Frankel, P. MacKenzie, and M. Yung] **[Robust Efficient Distributed RSA Key Generation](https://www.researchgate.net/profile/Moti_Yung/publication/2449287_Robust_Efficient_Distributed_RSA-Key_Generation/links/00b7d53b88cc27da00000000/Robust-Efficient-Distributed-RSA-Key-Generation.pdf)**
 
 - [1998, Crypto] [Tal Rabin] **[A Simplified Approach to Threshold and Proactive RSA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.8348&rep=rep1&type=pdf)**
@@ -59,7 +61,11 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1999, Crypto] [N. Gilboa] **[Two Party RSA Key Generation](http://www.bgu.ac.il/~gilboan/publications/rsa280599.pdf)**
 
+- [1999, ICISC] [Shingo Miyazaki, Kouichi Sakurai and Moti Yung] **[On Threshold RSA-Signing with no Dealer](https://link.springer.com/content/pdf/10.1007%2F10719994_16.pdf)**
+
 - [2000, Eurocrypt] [Victor Shoup] **[Practical Threshold Signatures](https://www.iacr.org/archive/eurocrypt2000/1807/18070209-new.pdf)**
+
+- [2000, Asiacrypt] [Brian King] **[Improved Methods to Perform Threshold RSA](https://link.springer.com/content/pdf/10.1007%2F3-540-44448-3_27.pdf)**
 
 - [2001, Asiacrypt] [P. A. Fouque and J. Stern] **[Fully Distributed Threshold RSA under Standard Assumptions](https://www.iacr.org/archive/asiacrypt2001/22480312.pdf)**
 
@@ -68,6 +74,8 @@ Research Papers and Articles on Threshold Cryptography
 - [2001, Eurocrypt] [I. Damgard and M. Koprowski] **[Practical Threshold RSA Signatures Without a Trusted Dealer](https://www.iacr.org/archive/eurocrypt2001/20450151.pdf)**
 
 - [2005, TCC] [Stanislaw Jarecki and Nitesh Saxena] **[Further simplifications in proactive RSA signature schemes](https://www.ics.uci.edu/~stasio/Papers/js05.pdf)**
+
+- [2005, PKC] [Ivan Damg˚ard and Kasper Dupont] **[Efficient Threshold RSA Signatures with General Moduli and No Extra Assumptions](https://pdfs.semanticscholar.org/435c/d701388dd01511bdfcd97999245fcfcabfe2.pdf)**
 
 - [2006, Eurocrypt] [Jesús F. Almansa, I. Damgård, J.B. Nielsen] **[Simplified Threshold RSA with Adaptive and Proactive Security](https://link.springer.com/content/pdf/10.1007%2F11761679_35.pdf)**
 
@@ -164,6 +172,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1998, Eurocrypt] [V. Shoup and R. Gennaro] **[Securing threshold cryptosystems against chosen ciphertext attack](https://www.shoup.net/papers/thresh1.pdf)**
 
+- [1998, PKC] [Y. Frankel and M. Yung] **[Distributed public key cryptosystems](https://link.springer.com/content/pdf/10.1007/BFb0054010.pdf)**
+
 - [1999, Eurocrypt] [R. Gennaro, S. Jarecki, H. Krawczyk, and T. Rabin] **[Secure Distributed Key Generation for Discrete-Log Based Cryptosystems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.2737&rep=rep1&type=pdf)**
 
 - [1999, Eurocrypt] [R. Canetti, S. Goldwasser] **[An Efficient Threshold Public Key Cryptosystem Secure Against Adaptive Chosen Ciphertext Attack](http://groups.csail.mit.edu/cis/pubs/shafi/1999-lncs.pdf)**
@@ -190,7 +200,7 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2003, PKC] [Alexandra Boldyreva] **[Threshold Signatures, Multisignatures and Blind Signatures Based on the Gap-Diffie-Hellman-Group Signature Scheme](https://www.iacr.org/archive/pkc2003/25670031/25670031.pdf)**
 
-- [2004, Crypto] [Masayuki AbeSerge Fehr] **[Adaptively Secure Feldman VSS and Applications to Universally-Composable Threshold Cryptography](https://eprint.iacr.org/2004/119.pdf)**
+- [2004, Crypto] [Masayuki Abe, Serge Fehr] **[Adaptively Secure Feldman VSS and Applications to Universally-Composable Threshold Cryptography](https://eprint.iacr.org/2004/119.pdf)**
 
 - [2004, PKC] [Joonsang Baek, Yuliang Zheng] **[Identity-Based Threshold Decryption](https://eprint.iacr.org/2003/164.pdf)**
 

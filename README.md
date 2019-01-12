@@ -121,9 +121,13 @@ Research Papers and Articles on Threshold Cryptography
 ---
 - [2010, TCC] [Rikke Bendlin, Ivan Damgård] **[Threshold Decryption and Zero-Knowledge Proofs for Lattice-Based Cryptosystems](https://eprint.iacr.org/2009/391.pdf)**
 
+- [2010, Latincrypt] [Pierre-Louis Cayrel, Richard Lindner, Markus R¨uckert, and Rosemberg Silva] **[A lattice-based threshold ring signature scheme](https://link.springer.com/content/pdf/10.1007%2F978-3-642-14712-8_16.pdf)**
+
+- [2011, PQCrypto] [Xiang Xie, Rui Xue, and Rui Zhang] **[Efficient threshold encryption from lossy trapdoor functions](https://link.springer.com/content/pdf/10.1007%2F978-3-642-25405-5_11.pdf)**
+
 - [2013, ACNS] [Rikke Bendlin, Sara Krehbiel, Chris Peikert] **[How to Share a Lattice Trapdoor: Threshold Protocols for Signatures and (H)IBE](https://eprint.iacr.org/2013/419.pdf)**
 
-- [2017, ePrint] [A. Jain, S. Kim, Peter M. R. Rasmussen, A. Sahai] **[Threshold Fully Homomorphic Encryption](https://eprint.iacr.org/2017/257.pdf)**
+- [2017, ePrint] [A. Jain, Peter M. R. Rasmussen, A. Sahai] **[Threshold Fully Homomorphic Encryption](https://eprint.iacr.org/2017/257.pdf)**
 
 - [2017, ePrint] [D. Boneh, R. Gennaro, S. Goldfeder, S. Kim] **[A Lattice-Based Universal Thresholdizer for Cryptographic Systems](https://eprint.iacr.org/2017/251.pdf)**
 
@@ -132,6 +136,12 @@ Research Papers and Articles on Threshold Cryptography
 ---
 ### ID Based
 ---
+- [2004, Indocrypt] [Chen X, Zhang F, Konidala D M, Kim K] **[New ID-based threshold signature scheme from bilinear pairing](https://link.springer.com/content/pdf/10.1007%2F978-3-540-30556-9_29.pdf)**
+
+- [2004, PKC] [J. Baek and Y. Zheng] **[Identity-based threshold decryption](https://eprint.iacr.org/2003/164.pdf)**
+
+- [2004, ITCC] [J. Baek and Y. Zheng] **[Identity-based threshold signature scheme from the bilinear pairings](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.6146&rep=rep1&type=pdf)**
+
 - [2012, ePrint] [Wei Gao, Guilin Wang, Kefei Chen, Xueli Wang, Guoyan Zhang] **[Efficient identity-based threshold decryption scheme from bilinear pairings](https://eprint.iacr.org/2012/075.pdf)**
 
 - [2014, Int. J. of Internet Protocol Tech.] [Wei Gao, Guilin Wang, Xueli Wang, Kefei Chen] **[Efficient identity-based threshold signature scheme from bilinear pairings in standard model](https://eprint.iacr.org/2012/073.pdf)**
@@ -159,6 +169,8 @@ Research Papers and Articles on Threshold Cryptography
 - [1994, IEEE Proc.-Comput. Digit. Tech] [L. Harn] **[Group-oriented (t, n) threshold digital signature scheme and digital multisignature](https://ieeexplore.ieee.org/abstract/document/326780)**
 
 - [1994, Crypto] [R. Canetti and A. Herzberg] **[Maintaining Security in the Presence of Transient Faults](https://link.springer.com/content/pdf/10.1007%2F3-540-48658-5_38.pdf)**
+
+- [1994, SIAM J.] [Y. Desmedt and Y. Frankel] **[Homomorphic zero-knowledge threshold schemes over any finite abelian group](https://epubs.siam.org/doi/pdf/10.1137/S0895480192224713)**
 
 - [1995, Crypto] [A. Herzberg, S. Jarecki, H. Krawczyk, M. Yung] **[Proactive Secret Sharing Or: How to Cope With Perpetual Leakage](https://link.springer.com/content/pdf/10.1007%2F3-540-44750-4_27.pdf)**
 
@@ -217,6 +229,10 @@ Research Papers and Articles on Threshold Cryptography
 - [2012, ICALP] [Benoit Libert, Moti Yung] **[Adaptively Secure Non-Interactive Threshold Cryptosystems](http://perso.ens-lyon.fr/benoit.libert/threshold-cca-icalp-full-version.pdf)**
 
 - [2012, TCC] [Benoit Libert, Moti Yung] **[Non-interactive CCA-Secure Threshold Cryptosystems with Adaptive Security: New Framework and Constructions](http://perso.ens-lyon.fr/benoit.libert/threshold-framework-full-version.pdf)**
+
+- [2018, Journal of Mathematical Cryptology] [TM Laing, DR Stinson] **[A survey and refinement of repairable threshold schemes](https://eprint.iacr.org/2017/1155.pdf)**
+
+
 
 
 - **[A JCA-based Implementation Framework for Threshold Cryptography](https://www.acsac.org/2001/papers/42.pdf)**

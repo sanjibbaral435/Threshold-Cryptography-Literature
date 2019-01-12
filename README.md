@@ -136,6 +136,9 @@ Research Papers and Articles on Threshold Cryptography
 ---
 ### Code Based
 ---
+
+- [2003, ICISC] [D. S. Wong, K. Fung, J. K. Liu, and V. K. Wei] **[On the RS-Code construction of ring signature schemes and a threshold setting of RST](https://link.springer.com/content/pdf/10.1007%2F978-3-540-39927-8_4.pdf)**
+
 - [2008, PQCrypto] [Carlos Aguilar Melchor, Pierre-Louis Cayrel, Philippe Gaborit] **[A New Efficient Threshold Ring Signature Scheme Based on Coding Theory](https://link.springer.com/content/pdf/10.1007%2F978-3-540-88403-3_1.pdf)**
 
 - [2009, Cryptography and Coding] [Dallot, L., Vergnaud, D.] **[Provably secure code-based threshold ring signatures](https://link.springer.com/content/pdf/10.1007%2F978-3-642-10868-6_13.pdf)**
@@ -155,8 +158,10 @@ Research Papers and Articles on Threshold Cryptography
 
 
 ---
-### Misc.
+### Ring Signature
 ---
+- [2003, ICISC] [J. K. Liu, V. K. Wei, and D. S. Wong] **[A separable threshold ring signature scheme](https://link.springer.com/content/pdf/10.1007%2F978-3-540-24691-6_2.pdf)**
+
 - [2004, Indocrypt] [Tsang, P.P., Wei, V.K., Chan, T.K., Au, M.H., Liu, J.K., Wong, D.S.] **[Separable Linkable Threshold Ring Signatures](https://eprint.iacr.org/2004/267.pdf)**
 
 ---

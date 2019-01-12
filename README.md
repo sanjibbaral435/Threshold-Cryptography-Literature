@@ -134,6 +134,13 @@ Research Papers and Articles on Threshold Cryptography
 - [2018, Crypto] [D. Boneh, R. Gennaro, S. Goldfeder, A. Jain, S. Kim, Peter M. R. Rasmussen, A. Sahai] **[Threshold Cryptosystems From Threshold Fully Homomorphic Encryption](https://eprint.iacr.org/2017/956.pdf)**
 
 ---
+### Code Based
+---
+- [2008, PQCrypto] [Carlos Aguilar Melchor, Pierre-Louis Cayrel, Philippe Gaborit] **[A New Efficient Threshold Ring Signature Scheme Based on Coding Theory](https://link.springer.com/content/pdf/10.1007%2F978-3-540-88403-3_1.pdf)**
+
+- [2009, Cryptography and Coding] [Dallot, L., Vergnaud, D.] **[Provably secure code-based threshold ring signatures](https://link.springer.com/content/pdf/10.1007%2F978-3-642-10868-6_13.pdf)**
+
+---
 ### ID Based
 ---
 - [2004, Indocrypt] [Chen X, Zhang F, Konidala D M, Kim K] **[New ID-based threshold signature scheme from bilinear pairing](https://link.springer.com/content/pdf/10.1007%2F978-3-540-30556-9_29.pdf)**
@@ -150,9 +157,14 @@ Research Papers and Articles on Threshold Cryptography
 ---
 ### Misc.
 ---
+- [2004, Indocrypt] [Tsang, P.P., Wei, V.K., Chan, T.K., Au, M.H., Liu, J.K., Wong, D.S.] **[Separable Linkable Threshold Ring Signatures](https://eprint.iacr.org/2004/267.pdf)**
+
+---
+### Misc.
+---
 - [1987, Crypto] [Yvo Desmedt] **[Society and group oriented cryptography: A new concept](https://link.springer.com/content/pdf/10.1007%2F3-540-48184-2_8.pdf)**
 
-- [1989, Eurocrypto] [Y. Frankel] **[A practical protocol for large group oriented networks](https://link.springer.com/content/pdf/10.1007%2F3-540-46885-4_8.pdf)**
+- [1989, Eurocrypt] [Y. Frankel] **[A practical protocol for large group oriented networks](https://link.springer.com/content/pdf/10.1007%2F3-540-46885-4_8.pdf)**
 
 - [1991, Eurocrypt] [T. P. Pedersen] **[Distributed Provers with Applications to Undeniable Signature](https://link.springer.com/content/pdf/10.1007/3-540-46416-6_20.pdf)**
 
@@ -207,6 +219,8 @@ Research Papers and Articles on Threshold Cryptography
 - [2001, CT-RSA] [Michel Abdalla, Sara Miner, Chanathip Namprempre] **[Forward-Secure Threshold Signature Schemes](https://eprint.iacr.org/2000/031.pdf)**
 
 - [2002, Asiacrypt] [Jonathan KatzMoti Yung] **[Threshold Cryptosystems Based on Factoring](https://eprint.iacr.org/2001/093.pdf)**
+
+- [2002, CRYPTO] [Bresson, E., Stern, J., Szydlo, M.] **[Threshold ring signatures and applications to ad-hoc groups](https://link.springer.com/content/pdf/10.1007%2F3-540-45708-9_30.pdf)**
 
 - [2003, PKC] [P. MacKenzie] **[An Efficient Two-Party Public Key Cryptosystem Secure against Adaptive Chosen Ciphertext Attack](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.127.5412&rep=rep1&type=pdf)**
 

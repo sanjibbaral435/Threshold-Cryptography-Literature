@@ -108,9 +108,11 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2016, ACNS] [R. Gennaro, S. Goldfeder, and A. Narayanan] **[Threshold-Optimal DSA/ECDSA Signatures and an Application to Bitcoin Wallet Security](https://eprint.iacr.org/2016/013.pdf)**
 
-- [2017, LATINCRYPT 2017] [D. Boneh, R. Gennaro, and S. Goldfeder] **[Using level-1 homomorphic encryption to improve threshold dsa signatures for bitcoin wallet security](https://pdfs.semanticscholar.org/a57a/e12ec05a71b22ce6504dce29c37c3f86d6fc.pdf)**
+- [2017, LATINCRYPT] [D. Boneh, R. Gennaro, and S. Goldfeder] **[Using level-1 homomorphic encryption to improve threshold dsa signatures for bitcoin wallet security](https://pdfs.semanticscholar.org/a57a/e12ec05a71b22ce6504dce29c37c3f86d6fc.pdf)**
 
-- [2017, Crypto 2017] [Y. Lindell] **[Fast secure two-party ecdsa signing](https://eprint.iacr.org/2017/552.pdf)**
+- [2017, Crypto] [Y. Lindell] **[Fast secure two-party ecdsa signing](https://eprint.iacr.org/2017/552.pdf)**
+
+- [2018, ACM CCS] [Y. Lindell, Ariel Nof] **[Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody](https://eprint.iacr.org/2018/987.pdf)**
 
 - [2018, IEEE S&P] [Jack Doerner, Yashvanth Kondi, Eysa Lee, Abhi Shelat] **[Secure Two-party Threshold ECDSA from ECDSA Assumptions](https://eprint.iacr.org/2018/499.pdf)**
 

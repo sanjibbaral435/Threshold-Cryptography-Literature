@@ -81,6 +81,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2008, Eurocrypt] [R. Gennaro, S. Halevi, H. Krawczyk and Tal Rabin] **[Threshold RSA for Dynamic and Ad-Hoc Groups](https://eprint.iacr.org/2008/045.pdf)**
 
+- [2009, Africacrypt] [Ilker Nadi Bozkurt, Kamer Kaya, Ali Aydın Sel¸cuk] **[Practical Threshold Signatures with Linear Secret Sharing Schemes](https://users.cs.duke.edu/~ilker/papers/conference/ac2009.pdf)**
+
 - [2010, TCC] [I. Damgard and G. L. Mikkelsen] **[Efficient, robust and constant-round distributed RSA key generation](https://www.iacr.org/archive/tcc2010/59780180/59780180.pdf)**
 
 - [2012, CT-RSA] [Carmit Hazay, Gert Læssøe Mikkelsen, Tal Rabin, Tomas Toft] **[Efficient RSA Key Generation and Threshold Paillier in the Two-Party Setting](https://eprint.iacr.org/2011/494.pdf)**

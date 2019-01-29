@@ -27,8 +27,6 @@ Research Papers and Articles on Threshold Cryptography
 
 - [1993, ACM CCS] [M. Bellare and P. Rogaway] **[Random oracles are practical: a paradigm for designing efficient protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf)**
 
-- [1996, Eurocrypt] [P. Paillier] **[Public key crypto-systems based on composite residue classes](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.112.4035&rep=rep1&type=pdf)**
-
 - [1996, Eurocrypt] [D. Pointcheval and J. Stern] **[Security proofs for signature schemes](https://www.di.ens.fr/david.pointcheval/Documents/Papers/1996_eurocrypt.pdf)**
 
 - [1999, ACM CCS] [Ronald Cramer and Victor Shoup] **[Signature schemes based on the strong RSA assumption](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.28.2406&rep=rep1&type=pdf)**

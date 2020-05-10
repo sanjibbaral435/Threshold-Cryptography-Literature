@@ -118,6 +118,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2019, IEEE S&P] [Jack Doerner, Yashvanth Kondi, Eysa Lee, Abhi Shelat] **[Threshold ECDSA from ECDSA Assumptions: The Multiparty Case](https://csdl.computer.org/csdl/proceedings/sp/2019/6660/00/666000a399.pdf)**
 
+- [2020] [Ivan Damg˚ard, Thomas Pelle Jakobsen, Jesper Buus Nielsen, Jakob Illeborg Pagter, and Michael Bæksvang Østergaard] **[Fast Threshold ECDSA with Honest Majority](https://eprint.iacr.org/2020/501.pdf)**
+
 ---
 ### Lattice Based
 ---
